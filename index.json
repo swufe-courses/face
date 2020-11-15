@@ -1,6 +1,0 @@
-{
-    "labs": [
-        { "face-detection.ipynb": "基于RetinaFace的人脸检测" },
-        { "face-recognition.ipynb": "基于InsightFace的人脸识别" }
-    ]
-}
